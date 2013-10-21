@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MVAR & MPVR Extractor")]
+[assembly: AssemblyTitle("VariantExtractor")]
 [assembly: AssemblyDescription("A tool to extract the contents of MVAR & MPVR files to be added as built-ins for Halo: Reach and Halo 4.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("OrangeMohawk")]
-[assembly: AssemblyProduct("MVAR & MPVR Extractor")]
+[assembly: AssemblyProduct("VariantExtractor")]
 [assembly: AssemblyCopyright("Copyright © 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

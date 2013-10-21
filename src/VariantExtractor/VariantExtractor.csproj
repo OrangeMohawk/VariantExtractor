@@ -8,8 +8,8 @@
     <ProjectGuid>{47592F86-8D65-4ED2-A9A3-F33BE8812E77}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MVAR_MPVR_Studio</RootNamespace>
-    <AssemblyName>MVAR &amp; MPVR Extractor</AssemblyName>
+    <RootNamespace>VariantExtractor</RootNamespace>
+    <AssemblyName>VariantExtractor</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -68,6 +68,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
